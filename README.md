@@ -56,6 +56,6 @@ FAQ
 
 * I Can't find the SetUp file
   It is likely that executables can not be saved to Github, therefor the code can also be downloaded here: https://1drv.ms/u/s!ArBg356q6SM0gvUe_fRtSLsofN_uqA?e=0Jjvak
-  * The link isn't working 
-  It is then advisable to enter go to the debug folder of app which is located in the bin folder. Once there you will see the Budgeter 2.0 application which you can then click on to run the app. This is not advisable, so please use this as a last means to run the app once all else has failed.
+* The link isn't working 
+ It is then advisable to enter go to the debug folder of app which is located in the bin folder. Once there you will see the Budgeter 2.0 application which you can then click on to run the app. This is not advisable, so please use this as a last means to run the app once all else has failed.
   
