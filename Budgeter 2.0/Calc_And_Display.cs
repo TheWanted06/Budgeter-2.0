@@ -18,6 +18,7 @@ namespace Budgeter_2._0
                 generalTotal += gen;
             }
             return generalTotal;
+
         }
 
         public double housing(bool isRenting,List<double> housingList)
